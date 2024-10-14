@@ -40,11 +40,7 @@ body {
     color: #434455;
 }
 
-.addressList:hover {
-    color: #404bbf
-}
-
-.addressList:focus {
+.addressList:hover, .addressList:focus{
     color: #404bbf
 }
 
