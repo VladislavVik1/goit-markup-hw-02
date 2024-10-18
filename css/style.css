@@ -33,22 +33,22 @@ body {
     font-style: normal;
 }
 
-.addrList a {
+.addrlist  {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.addrList:hover, .addrList:focus a {
+.addrlist:hover, .addrlist:focus  {
     color: #404bbf
 }
 
-.section1 {
+.sect {
     background-color: #2e2f42;
 }
 
-.zagolovok {
+.zag {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
