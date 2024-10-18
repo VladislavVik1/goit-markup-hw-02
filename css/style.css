@@ -48,7 +48,7 @@ body {
     background-color: #2e2f42;
 }
 
-.Zagolovok {
+.zagolovok {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -91,7 +91,7 @@ body {
     background-color: #F4F4FD
 }
 
-.ZagolovokH2 {
+.zagolovokh2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -104,16 +104,8 @@ body {
     background-color: #FFFFFF
 }
 
-.ZagolovokH2SC4 {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
-}
 
-.Zag3 {
+.zag3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -132,7 +124,7 @@ body {
     background-color: #2e2f42;
 }
 
-.Studiofoot {
+.studiofoot {
     color: #f4f4fd;
 }
 
