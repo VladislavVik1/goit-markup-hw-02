@@ -33,14 +33,14 @@ body {
     font-style: normal;
 }
 
-.addressList {
+.address-List {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.addressList:hover, .addressList:focus{
+.address-List:hover, .address-List:focus{
     color: #404bbf
 }
 
