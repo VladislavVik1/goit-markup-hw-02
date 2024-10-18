@@ -80,18 +80,26 @@ body {
     color: #2e2f42;
 }
 
-.parag1 {
+.paragg {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.section3 {
+.secti {
     background-color: #F4F4FD
 }
 
-.zagolovokh2 {
+.zagolovokh {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+
+}
+.zagolovokhtwo {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -100,12 +108,12 @@ body {
     color: #2e2f42;
 }
 
-.listSection3 {
+.listsec {
     background-color: #FFFFFF
 }
 
 
-.zag3 {
+.zagg {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -113,7 +121,7 @@ body {
     color: #2e2f42;
 }
 
-.parag2 {
+.paragtwo {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
